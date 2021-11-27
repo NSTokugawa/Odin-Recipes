@@ -1,1 +1,3 @@
-# odin-recipies
+# odin-recipes
+
+Odin project #1, HTML fundamentals
